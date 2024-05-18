@@ -1,5 +1,5 @@
-STUID = 114514# 学号
-STUNAME = 马XX# 姓名
+STUID = 222023321102082# 学号
+STUNAME = 张静茜# 姓名
 
 # DO NOT modify the following code!!!
 
